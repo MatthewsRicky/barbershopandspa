@@ -1,0 +1,57 @@
+the-place/
+├── app/
+│   ├── globals.css
+│   ├── layout.tsx
+│   ├── page.tsx
+│   ├── services/
+│   │   └── page.tsx
+│   ├── about/
+│   │   └── page.tsx
+│   ├── gallery/
+│   │   └── page.tsx
+│   ├── booking/
+│   │   └── page.tsx
+│   └── contact/
+│       └── page.tsx
+│
+├── components/
+│   ├── layout/
+│   │   ├── Navbar.tsx
+│   │   └── Footer.tsx
+│   ├── home/
+│   │   ├── Hero.tsx
+│   │   ├── ServicesPreview.tsx
+│   │   ├── AboutPreview.tsx
+│   │   ├── Packages.tsx
+│   │   ├── TeamPreview.tsx
+│   │   ├── GalleryPreview.tsx
+│   │   ├── Testimonials.tsx
+│   │   └── BookingCTA.tsx
+│   ├── services/
+│   │   └── ServiceCard.tsx
+│   ├── team/
+│   │   └── TeamCard.tsx
+│   ├── gallery/
+│   │   └── GalleryGrid.tsx
+│   ├── booking/
+│   │   └── BookingForm.tsx
+│   └── ui/
+│       ├── Button.tsx
+│       ├── SectionHeading.tsx
+│       └── Container.tsx
+│
+├── data/
+│   ├── services.ts
+│   ├── team.ts
+│   ├── testimonials.ts
+│   └── gallery.ts
+│
+├── types/
+│   └── index.ts
+│
+└── public/
+    └── images/
+        ├── hero/
+        ├── services/
+        ├── team/
+        └── gallery/
