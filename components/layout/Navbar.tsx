@@ -53,7 +53,7 @@ export default function Navbar() {
               onClick={() => setOpen(false)}
               className="font-serif text-2xl tracking-[0.12em] text-white"
             >
-              THE PLACE
+             THE PLACE
             </Link>
 
             {/* Desktop */}

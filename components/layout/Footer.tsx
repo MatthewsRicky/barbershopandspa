@@ -43,8 +43,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-16 border-t border-white/10 pt-6 text-sm text-white/40">
-          © {new Date().getFullYear()} The Place Barber Shop & Spa. All rights
-          reserved.
+          © {new Date().getFullYear()} THE PLACE. All rights reserved.
         </div>
       </Container>
     </footer>
