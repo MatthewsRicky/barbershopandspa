@@ -5,11 +5,11 @@ import Footer from "@/components/layout/Footer";
 
 export const metadata: Metadata = {
   title: {
-    default: "Crowned by Raish | Barber Shop & Spa",
+    default: "The Place | Barber Shop & Spa",
     template: "%s | The Place",
   },
   description:
-    "Crowned by Raish | Barber Shop & Spa — precision grooming, beauty and wellness in Diani, Kenya.",
+    "The Place | Barber Shop & Spa — precision grooming, beauty and wellness in Diani, Kenya.",
 };
 
 export default function RootLayout({
